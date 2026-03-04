@@ -1,17 +1,32 @@
 [
   {
-    "first_name": "Jerry",
-    "last_name": "Jones",
-    "course_name": "Python 100"
+    "FirstName": "Won",
+    "LastName": "Paulos",
+    "CourseName": "Python 100"
   },
   {
-    "first_name": "Jenn",
-    "last_name": "Martin",
-    "course_name": "Python 200"
+    "FirstName": "Sue",
+    "LastName": "Jones",
+    "CourseName": "Python 100"
   },
   {
-    "first_name": "Caleb",
-    "last_name": "Chris",
-    "course_name": "Python 300"
+    "FirstName": "Vic",
+    "LastName": "Vu",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Sue",
+    "LastName": "Jones",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Sue",
+    "LastName": "Jones",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Sue",
+    "LastName": "Jones",
+    "CourseName": "Python 100"
   }
 ]
